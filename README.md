@@ -1,6 +1,6 @@
 # _Hello, this is Loc_ 😎
 
-## _Here is my information, and you can contact with me_
+## _Here is my information, and you can contact me_
 
 - Phone number: +84 898202569
 - Address: Danang, Viet Nam
